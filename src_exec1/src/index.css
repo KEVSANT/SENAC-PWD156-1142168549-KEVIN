@@ -1,0 +1,30 @@
+
+
+main {
+    background-color: red;   
+    padding: 15px 30px;
+    margin-top: 20px;
+    border-radius: 10px; 
+}
+
+body{
+
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey; 
+
+}
+
+#imc {
+    padding: 10px;
+}
+
+label {
+    display: block;
+    color: white;
+}
